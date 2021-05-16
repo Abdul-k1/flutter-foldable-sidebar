@@ -4,7 +4,7 @@ import 'package:flutter_foldable_sidebar_demo/splash_page.dart';
 import 'package:flutter_foldable_sidebar_demo/routes/settings_screen.dart';
 import 'package:flutter_foldable_sidebar_demo/routes/log_out_screen.dart';
 import 'package:flutter_foldable_sidebar_demo/routes/profile_screen.dart';
-import 'package:flutter/services.dart';
+//import 'package:flutter/services.dart';
 
 void main() {
   // Use Code below to disable orientation in your app
